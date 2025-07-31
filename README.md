@@ -11,8 +11,25 @@ This website showcases my projects, skills, experiences, and passions in a clean
 
 | Frontend | Deployment | Tools |
 |----------|------------|-------|
-| HTML5, CSS3, JavaScript | Netlify 🌐 | Git & GitHub 🐙 |
+| HTML5, CSS3, JavaScript | Netlify 🔷 | Git & GitHub 🐙 |
 | (Optional: React / TailwindCSS if used) | Continuous Deployment | VS Code 🧑‍💻 |
+
+---
+
+## 📂 Folder Structure
+<!-- 🔍 About the Code Structure -->
+<!-- index.html includes everything -->
+<p>
+  🧾 <strong>Note:</strong> This project is built as a single-page application.<br/>
+  The <code>index.html</code> file contains:
+  <ul>
+    <li>📄 HTML markup for the structure</li>
+    <li>🎨 Embedded <code>&lt;style&gt;</code> tags for CSS styling</li>
+    <li>⚙️ Embedded <code>&lt;script&gt;</code> tags for JavaScript interactivity</li>
+  </ul>
+  This makes the site simple, lightweight, and easy to deploy!
+</p>
+
 
 ---
 
@@ -22,7 +39,7 @@ This website showcases my projects, skills, experiences, and passions in a clean
 🧑‍💻 Project gallery with descriptions  
 📄 Achievements & Publications  
 📬 Contact section with social links  
-🌙 Light/dark mode toggle (if implemented)
+🌙 Light/dark mode toggle
 
 ---
 
