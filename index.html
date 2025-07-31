@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" type="image/png" href="favicon.png" />
   <title> G D V T R A M A R A O </title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
@@ -902,6 +903,12 @@
 
     // Initialize
     updateActiveNav();
+    const titles = [ "🧠 Code. Build. Repeat.","📡 Real-Time Systems","💻 G D V T R A M A R A O ", "🚀 Building Beyond Boundaries", "✨ Future Engineer @ Work",];
+    let index = 0;
+    setInterval(() => {
+    document.title = titles[index % titles.length];
+    index++;
+    }, 4000); // Change every 4 seconds
   </script>
 </body>
 </html>
