@@ -1,4 +1,3 @@
-# portfolio
 # 🌐 Personal Portfolio Website
 
 Welcome to my personal developer portfolio!  
