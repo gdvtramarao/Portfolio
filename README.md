@@ -4,7 +4,9 @@ Welcome to my personal developer portfolio!
 This website showcases my projects, skills, experiences, and passions in a clean and minimal design. It's built with ❤️ to reflect who I am as a 💡 Innovative Developer Focused on Real-Time Solutions.
 
 🔗 **Live Site:** [gdvtramarao.netlify.app](https://gdvtramarao.netlify.app)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/569b43bb-e396-4349-a950-281ef4ead95e/deploy-status)](https://app.netlify.com/projects/gdvtramarao/deploys)
+
 ---
 
 ## 🚀 Tech Stack
