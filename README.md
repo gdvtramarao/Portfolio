@@ -14,7 +14,7 @@ This website showcases my projects, skills, experiences, and passions in a clean
 | Frontend | Deployment | Tools |
 |----------|------------|-------|
 | HTML5, CSS3, JavaScript | Netlify 🔷 | Git & GitHub 🐙 |
-| (Optional: React / TailwindCSS if used) | Continuous Deployment | VS Code 🧑‍💻 |
+| (Optional: React / TailwindCSS) | Continuous Deployment | VS Code 🧑‍💻 |
 
 ---
 
