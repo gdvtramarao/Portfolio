@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# ⚡ Personal Portfolio Website
 
 Welcome to my personal developer portfolio!  
 This website showcases my projects, skills, experiences, and passions in a clean and minimal design. It's built with ❤️ to reflect who I am as a 💡 Innovative Developer Focused on Real-Time Solutions.
